@@ -62,18 +62,3 @@ JavaScript
 
 CSS
 
-✌️ Created by MrTecna
-
-yaml
-Copy code
-
----
-
-📌 فقط این متن رو کپی کن داخل فایل `README.md` (کنار `package.json`) و بعد با دستورهای زیر پوش کن:  
-
-```bash
-git add README.md
-git commit -m "Add README"
-git push
-npm run dev
-
